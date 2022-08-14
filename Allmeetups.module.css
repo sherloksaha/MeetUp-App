@@ -1,0 +1,11 @@
+.eno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(27, 173, 218);
+    border-radius: 29%;
+    width: 50%;
+    padding: 2.5%;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
